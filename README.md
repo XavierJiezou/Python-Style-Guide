@@ -114,7 +114,7 @@ assert port is not None
 
 ### 全局变量
 
-> 避免使用全局变量，推荐使用模块级别的常量。如：`MAX_HOLY_HANDGRENADE_COUNT = 3`，常量命令全部大写，使用 `_` 分隔。
+> 避免使用全局变量，推荐使用模块级别的常量。如：`MAX_HOLY_HANDGRENADE_COUNT = 3`，常量名称全部大写，使用 `_` 分隔。
 
 ### 嵌套/局部/内部 类或函数
 
