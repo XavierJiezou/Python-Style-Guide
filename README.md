@@ -1008,4 +1008,4 @@ autoDocstring 用于快速生成函数的文档字符串注释，支持的功能
 ## 引用参考
 
 > - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) 
-> - [Python 风格指南中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/)
+> - [Python 风格指南（中文版）](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/)
